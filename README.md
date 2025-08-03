@@ -67,5 +67,3 @@ Guilherme Francisco I'm an IT Analyst exploring the world of data analysis with 
 
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-francisco-9320591b5/
 
-🧑‍💻 GitHub: https://github.com/GuihJF
-
