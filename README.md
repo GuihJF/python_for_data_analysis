@@ -63,7 +63,7 @@ jupyter notebook Data_Test_Python_for_Data.ipynb
 - You can also run it in Google Colab by uploading the notebook file.
 
 👨‍💻 About Me:
-Guilherme Francisco I'm an IT Analyst exploring the world of data analysis with Python. I enjoy solving problems, learning new tools, and sharing what I discover. This project is part of my journey to become more confident with data and build useful insights from real information.
+I'm Guilherme Francisco, an IT Analyst exploring the world of data analysis with Python. I enjoy solving problems, learning new tools, and sharing what I discover. This project is part of my journey to become more confident with data and build useful insights from real information.
 
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-francisco-9320591b5/
 
